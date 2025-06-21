@@ -33,4 +33,29 @@ Preview:
 Check the exported design screens in the assets folder.
 Live Design:
 View the Figma design here: [https://www.figma.com/design/8LUUMKazuurWCwhFB190xr/brainwave?node-id=101-16&t=qqD7eawfMuEU6sbh-1]
+________________________________________
+Task 2
+User Personas and Design Strategy for HealthSync – A Healthcare App
+As part of my UI/UX internship at Brainwave Matrix Solutions, I was tasked with designing a user-centered healthcare application — HealthSync — that helps users manage their health conditions, track medications, and communicate with healthcare providers. My process involved conducting research, identifying key user needs, and creating targeted design solutions that prioritize accessibility, ease of use, and real-world utility.
 
+👩 Persona 1: Grace – The Patient Focused on Simplicity
+Name: Grace Adeniran
+Age: 54
+Profession: Retired Teacher
+Health Challenge: Diabetes & hypertension
+Pain Points: - Overwhelmed by technology - Needs help remembering medications - Finds hospital apps too complex
+Design Goals for Grace: - Clear, bold typography and large buttons for easier interaction - High contrast and soft color palettes to improve accessibility - A simple home screen showing vital reminders and today’s medications - Calendar and appointment tracking in an uncluttered format
+Suggested Features: - “My Medications” card with dosage and schedule - Blood pressure and glucose trackers with easy inputs - “Upcoming Appointments” widget with doctor profile preview - Simple notifications for vitals and medicine intake
+
+👨 Persona 2: Emeka – The Tech-Savvy, Busy Professional
+Name: Emeka Okafor
+Age: 29
+Profession: Software Engineer
+Health Challenge: Mild hypertension
+Pain Points: - Tight schedule; needs speed and clarity - Wants to view progress and data insights - Prefers clean, professional UI without distractions
+Design Goals for Emeka: - Sleek interface with modern fonts and minimalist icons - Quick-glance visualizations (e.g. charts, rings, trend graphs) - Messaging or chat functionality for doctor access - Daily and weekly progress summaries
+Suggested Features: - Dashboard with dynamic charts showing BP trends - Auto-sync feature for vitals with wearable devices (mock concept) - “Message Doctor” button directly on the homepage - Wellness habit tracker with progress badges
+
+By focusing on these two personas, I ensured that HealthSync serves a diverse range of users — from those who need clarity and support, to those who want speed and control. This helped shape a more inclusive and scalable design.
+This experience grew my ability to design with empathy, apply accessibility best practices, and build for real people with real needs.
+Figma link: https://www.figma.com/design/8LUUMKazuurWCwhFB190xr/brainwave?node-id=0-1&t=u1OZPwCNdhE2hraL-1

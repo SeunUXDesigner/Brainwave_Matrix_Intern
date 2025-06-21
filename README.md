@@ -1,5 +1,6 @@
 # Brainwave_Matrix_Intern
-Task 1 – Harvestly (Farm Produce E-commerce Website)
+Task 1 
+a) Harvestly (Farm Produce E-commerce Website)
 Title: Harvestly – Farm Produce E-commerce Website
 This is the first UI/UX design task I completed as part of my internship at Brainwave Matrix Solutions.
 Harvestly is a modern, user-friendly e-commerce platform designed to connect customers directly with fresh farm produce. The goal of this project was to create a seamless shopping experience with clean navigation, calming visual design, and effective product presentation to encourage sales.
@@ -16,7 +17,7 @@ Check the exported images in the assets folder.
 Live Design:
 View the Figma design here: [https://www.figma.com/design/8LUUMKazuurWCwhFB190xr/brainwave?node-id=22-2&t=qqD7eawfMuEU6sbh-1]
 ________________________________________
-💻 Task 2 – Techademy (Tech School Website)
+b) Techademy (Tech School Website)
 Title: Techademy – Online Tech School Website
 This is the second task in my internship at Brainwave Matrix Solutions.
 Techademy is an educational platform that offers online training in tech skills such as Web Development, UI/UX Design, Data Science, and Cybersecurity. I designed this website to feel bold, clean, and trustworthy, using a deep navy and white color scheme for contrast and clarity.
@@ -34,11 +35,12 @@ Check the exported design screens in the assets folder.
 Live Design:
 View the Figma design here: [https://www.figma.com/design/8LUUMKazuurWCwhFB190xr/brainwave?node-id=101-16&t=qqD7eawfMuEU6sbh-1]
 ________________________________________
+
 Task 2
 User Personas and Design Strategy for HealthSync – A Healthcare App
 As part of my UI/UX internship at Brainwave Matrix Solutions, I was tasked with designing a user-centered healthcare application — HealthSync — that helps users manage their health conditions, track medications, and communicate with healthcare providers. My process involved conducting research, identifying key user needs, and creating targeted design solutions that prioritize accessibility, ease of use, and real-world utility.
 
-👩 Persona 1: Grace – The Patient Focused on Simplicity
+Persona 1: Grace – The Patient Focused on Simplicity
 Name: Grace Adeniran
 Age: 54
 Profession: Retired Teacher
@@ -47,7 +49,7 @@ Pain Points: - Overwhelmed by technology - Needs help remembering medications - 
 Design Goals for Grace: - Clear, bold typography and large buttons for easier interaction - High contrast and soft color palettes to improve accessibility - A simple home screen showing vital reminders and today’s medications - Calendar and appointment tracking in an uncluttered format
 Suggested Features: - “My Medications” card with dosage and schedule - Blood pressure and glucose trackers with easy inputs - “Upcoming Appointments” widget with doctor profile preview - Simple notifications for vitals and medicine intake
 
-👨 Persona 2: Emeka – The Tech-Savvy, Busy Professional
+Persona 2: Emeka – The Tech-Savvy, Busy Professional
 Name: Emeka Okafor
 Age: 29
 Profession: Software Engineer
